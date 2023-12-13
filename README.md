@@ -4,9 +4,6 @@
     <a href='https://reactjs.org' target='__blank'>
         <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&link=https://reactjs.org">
     </a>
-    <a href='https://www.linkedin.com/in/lucas-rodrigues-985918197' target='__blank'>
-        <img src="https://img.shields.io/badge/Lucas-social-green?logo=linkedin&style=social&link=https://www.linkedin.com/in/lucas-rodrigues-985918197">
-    </a>
   </p>
 </p>
 
